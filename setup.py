@@ -6,7 +6,7 @@ setup(
     author="Your Name",
     description="A Python package to convert PPTX files to PDF using PowerPoint",
     packages=find_packages(),
-    install_requires=["pillow", "pywin32"],
+    install_requires=["pillow", "pywin32", "comtypes"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "Operating System :: Microsoft :: Windows",

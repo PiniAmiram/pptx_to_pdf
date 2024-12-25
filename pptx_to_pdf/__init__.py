@@ -1,1 +1,1 @@
-from .converter import convert_pptx_to_images, images_to_pdf, convert_pptx_to_pdf
+from .converter import convert_pptx_to_images, images_to_pdf, convert_pptx_to_pdf, save_pptx_as_pdf_comtypes, convert_pptx_to_pdf_win32com
