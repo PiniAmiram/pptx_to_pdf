@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: pptx-to-pdf
+Version: 0.1.0
+Summary: A Python package to convert PPTX files to PDF using PowerPoint
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
